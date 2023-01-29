@@ -4,19 +4,19 @@ local Notify = AkaliNotif.Notify;
 
 Notify({
     Description = " Exploits Support: Synapse, Script-Ware, Krnl ";
-    Title = " Loading Owner Version ";
+    Title = " Loading Premium and Owner Version ";
     Duration = 5;
 });
 wait("4")
 Notify({
     Description = " Zeus, Electron, Comet 3, Fluxus, Oxygen U ";
-    Title = " Loading Owner Version ";
+    Title = " Loading Premium and Owner Version ";
     Duration = 4;
 });
 wait(3)
 Notify({
     Description = " Krnl (No support adm for mobiles 2) ";
-    Title = " Loading Owner Version (5 Sec) ";
+    Title = " Loading Premium and Owner Version (5 Sec) ";
     Duration = 3;
 });
 wait("5")
