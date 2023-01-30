@@ -1,25 +1,3 @@
-local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/juywvm/ui-libs/main/Akali_Notify_Library/AkaliNotifyLibrary"))();
-
-local Notify = AkaliNotif.Notify;
-
-Notify({
-    Description = " Exploits Support: Synapse, Script-Ware, Krnl ";
-    Title = " Loading Owner Version ";
-    Duration = 5;
-});
-wait("4")
-Notify({
-    Description = " Zeus, Electron, Comet 3, Fluxus, Oxygen U ";
-    Title = " Loading Owner Version ";
-    Duration = 4;
-});
-wait(3)
-Notify({
-    Description = " Adm for mobiles 2 creator: gramajoalexishack#0524 ) ";
-    Title = " Loading Owner Version (5 Sec) ";
-    Duration = 3;
-});
-wait("5")
 local Flux = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/fluxlib.txt")()
 
 local win = Flux:Window("Net Hub", "Version Premium", Color3.fromRGB(255, 110, 48), Enum.KeyCode.M)
