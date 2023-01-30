@@ -1,6 +1,6 @@
 local Flux = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/fluxlib.txt")()
 
-local win = Flux:Window("Net Hub", "Version Premium", Color3.fromRGB(255, 110, 48), Enum.KeyCode.M)
+local win = Flux:Window("Net Hub", "Version Owners", Color3.fromRGB(255, 110, 48), Enum.KeyCode.M)
 local tab = win:Tab("Credits", "http://www.roblox.com/asset/?id=6023426915")
 tab:Label("Dev: ! World Hub#4124")
 tab:Label("Interface: ! World Hub#4124")
