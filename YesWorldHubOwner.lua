@@ -4,19 +4,19 @@ local Notify = AkaliNotif.Notify;
 
 Notify({
     Description = " Exploits Support: Synapse, Script-Ware, Krnl ";
-    Title = " Loading Premium and Owner Version ";
+    Title = " Loading Owner Version ";
     Duration = 5;
 });
 wait("4")
 Notify({
     Description = " Zeus, Electron, Comet 3, Fluxus, Oxygen U ";
-    Title = " Loading Premium and Owner Version ";
+    Title = " Loading Owner Version ";
     Duration = 4;
 });
 wait(3)
 Notify({
-    Description = " Krnl (No support adm for mobiles 2) ";
-    Title = " Loading Premium and Owner Version (5 Sec) ";
+    Description = " Adm for mobiles 2 creator: gramajoalexishack#0524 ) ";
+    Title = " Loading Owner Version (5 Sec) ";
     Duration = 3;
 });
 wait("5")
@@ -27,6 +27,8 @@ local tab = win:Tab("Credits", "http://www.roblox.com/asset/?id=6023426915")
 tab:Label("Dev: ! World Hub#4124")
 tab:Label("Interface: ! World Hub#4124")
 tab:Label("Scripter: ! World Hub#4124 ")
+tab:Label("Adm for mobiles 2 creator: gramajoalexishack#0524")
+tab:Label("Creador de Adm for mobiles 2: gramajoalexishack#0524")
 tab:Label("Esconde y abre la gui con M/Toggle gui with M")
 tab:Button("Chatbypasser", "", function()
 	Flux:Notification("running", "Alright")
