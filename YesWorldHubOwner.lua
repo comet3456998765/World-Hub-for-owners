@@ -1,4 +1,4 @@
-local Mercury = loadstring(game:HttpGet("https://raw.githubusercontent.com/deeeity/mercury-lib/master/src.lua"))()
+local Mercury = loadstring(game:HttpGet("https://raw.githubusercontent.com/comet3456998765/ui-libs/main/Mercury_Ui_Library/Mercury_Ui_Lib"))()
 local Discord = "https://discord.gg/NYxgXzt8aK"
 function discord()
 setclipboard(Discord)
