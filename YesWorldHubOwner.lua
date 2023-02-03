@@ -15,10 +15,10 @@ end
 local Versions = "V1"
 
 local GUI = Mercury:Create{
-    Name = "Net Hub",
+    Name = "Furry Hub",
     Size = UDim2.fromOffset(600, 400),
     Theme = Mercury.Themes.Legacy,
-    Link = "https://ww.Lvs_page/Net Hub.api/Hub.lua"
+    Link = "https://www.sk_lvsmusic.Furry Script.api/Hub.lua"
 }
 GUI:Notification{
 	Title = "Net Hub Alerta/Alert",
