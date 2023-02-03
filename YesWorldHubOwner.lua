@@ -63,7 +63,7 @@ Tab:Button{
 }
 Tab:Button{
 	Name = "ChatByPasser",
-	Description = "Use chat by passer: /s fuck",
+	Description = "Toggle chat by passer. Q",
 	Callback = function() 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/comet3456998765/Chatbypaser-v/main/YesWHub"))()
     end
