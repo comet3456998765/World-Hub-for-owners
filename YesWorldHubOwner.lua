@@ -21,14 +21,14 @@ local GUI = Mercury:Create{
     Link = "https://www.sk_lvsmusic.Furry Script.api/Hub.lua"
 }
 GUI:Notification{
-	Title = "Net Hub Alerta/Alert",
+	Title = "Furry Hub Alerta/Alert",
 	Text = "Esta es una version de prueba por favor esperar/This is a trial version please wait",
 	Duration = 5,
 	Callback = function() 
     end
 }
 GUI:Notification{
-	Title = "Net Hub Alerta/Alert",
+	Title = "Furry Hub Alerta/Alert",
 	Text = "Version: V1 (Beta)", "..Versions",
 	Duration = 10,
 	Callback = function() 
