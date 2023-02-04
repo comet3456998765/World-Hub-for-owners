@@ -15,20 +15,20 @@ end
 local Versions = "V1"
 
 local GUI = Mercury:Create{
-    Name = "Furry Hub",
+    Name = "Net Hub",
     Size = UDim2.fromOffset(600, 400),
     Theme = Mercury.Themes.Legacy,
-    Link = "https://www.sk_lvsmusic.Furry Script.api/Hub.lua"
+    Link = "https://www.sk_lvsmusic.Hub_Script.api/Hub.lua"
 }
 GUI:Notification{
-	Title = "Furry Hub Alerta/Alert",
+	Title = "Net Hub Alerta/Alert",
 	Text = "Esta es una version de prueba por favor esperar/This is a trial version please wait",
 	Duration = 5,
 	Callback = function() 
     end
 }
 GUI:Notification{
-	Title = "Furry Hub Alerta/Alert",
+	Title = "Net Hub Alerta/Alert",
 	Text = "Version: V1 (Beta)", "..Versions",
 	Duration = 10,
 	Callback = function() 
